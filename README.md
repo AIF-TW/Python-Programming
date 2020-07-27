@@ -3,7 +3,6 @@
 * IO <a href="https://colab.research.google.com/drive/1YpTWtQZRhfcaZbGK_D9nzT2GGYy8R-8y?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
-
 * Data Type
 * Format Code
 * Operators
