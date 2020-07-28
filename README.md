@@ -8,7 +8,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Format String/Foramt Code        <a href="https://colab.research.google.com/drive/1pQ8lxfa8G8yuzSKgIaUkl0hLpkn2k50R?usp=sharing">
+* Format String/Foramt Code        <a href="https://colab.research.google.com/drive/1ez7b0A6Usj8czby8qOERGF-iMbjlw-h6?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
