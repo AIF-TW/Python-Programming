@@ -23,4 +23,5 @@
 * Module
 * Regular Expression
 # 使用說明
-學習者可從這邊下載(clone)到本機電腦以 Jupyter Notebook 進行演練或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。
+學習者可從這邊下載(clone)到本機電腦以 Jupyter Notebook 進行演練或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。<br />
+如需進行備份，可於上方點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
