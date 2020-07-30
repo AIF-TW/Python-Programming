@@ -1,5 +1,7 @@
 # Python Programming
 台灣人工智慧學校「Python程式設計輕鬆學」課程程式碼，本課程之目標在於幫助剛進入 *Python* 程式語言的學習者了解這語言的基本語法架構，本課程採線上課程方式進行，教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/free-course "天下創新學院")觀看，課程程式碼依照不同的主題放置在不同的資料夾，主題分別有：
+-------------
+**已上架**
 * IO                 <a href="https://colab.research.google.com/drive/1YpTWtQZRhfcaZbGK_D9nzT2GGYy8R-8y?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
 </a>
@@ -15,7 +17,8 @@
 * Operator           <a href="https://colab.research.google.com/drive/1qChmcX9gO1ptZXqFpnttucQAs1rQwGJZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
-
+-------------
+**待上架**
 * Control Flow
 * Function
 * Class
