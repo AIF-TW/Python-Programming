@@ -32,6 +32,6 @@
 * Module
 * Regular Expression
 
-課程教材之影片與程式碼將會每週持續更新。
+課程教材之影片與程式碼將每週持續更新。
 # 使用說明
 學習者可從這邊下載(clone)到本機電腦以 Jupyter Notebook 進行演練或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。如需進行 Colab 備份，可於上方依照不同的主題點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 即可進入該主題的 Colab 頁面，再將檔案進行副本即可。
