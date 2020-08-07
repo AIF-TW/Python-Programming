@@ -52,4 +52,10 @@
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/download.png" width="250px" >
  
 
-或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。如需進行 Colab 備份，可於上方依照不同的主題點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 即可進入該主題的 Colab 頁面，再將檔案進行副本即可。
+**或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練**
+
+1. 可於上方依照不同的主題點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
+
+2. 進入該主題的 Colab 頁面，再將檔案進行副本即可
+
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
