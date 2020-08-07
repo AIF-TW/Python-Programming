@@ -56,6 +56,6 @@
 
 1. 可於上方依照不同的主題點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
 
-2. 進入該主題的 Colab 頁面，再將檔案進行副本即可
+2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟即可
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="90px" />
+<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="300px" />
