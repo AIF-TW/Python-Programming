@@ -41,7 +41,9 @@
 
 課程教材之影片與程式碼將每週持續更新。
 # 使用說明
-**學習者可從這邊下載到本機電腦以 Jupyter Notebook 進行演練:**
+**學習者可從這邊下載到本機電腦以 Jupyter Notebook 進行演練或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。**
+
+##Jupyter Notebook:
 
 1. 點選頁面上方 *Code* 按鈕
 
@@ -52,10 +54,10 @@
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/download.png" width="250px" >
  
 
-**或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練**
+##Colab:
 
 1. 可於上方依照不同的主題點擊圖示 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
 
 2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟即可
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="300px" />
+<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="350px" />
