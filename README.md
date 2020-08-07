@@ -43,11 +43,11 @@
 # 使用說明
 **學習者可從這邊下載到本機電腦以 Jupyter Notebook 進行演練:**
 
-點選頁面上方 *Code* 按鈕
+1. 點選頁面上方 *Code* 按鈕
 
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/code.png" width="90px" >
  
-再點選 *Download ZIP* 即可下載
+2. 再點選 *Download ZIP* 即可下載
  
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/download.png" width="200px" >
  
