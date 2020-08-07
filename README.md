@@ -60,4 +60,4 @@
 
 2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟即可
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="350px" />
+<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="400px" />
