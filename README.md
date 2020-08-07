@@ -58,4 +58,4 @@
 
 2. 進入該主題的 Colab 頁面，再將檔案進行副本即可
 
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
+<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="90px" />
