@@ -70,4 +70,4 @@
 
 3. 複制到雲端之後就可以在自己的 Google Drive 的 Colab Notebooks 資料夾中找到已建立的副本
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/colab_notebooks_folder.png" width="250px" />
+<img src="https://github.com/HsiaoEn/python-programming/blob/master/colab_notebooks_folder.png" width="150px" />
