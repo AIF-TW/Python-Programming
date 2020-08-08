@@ -67,3 +67,5 @@
 2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟即可
 
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="500px" />
+
+3. 複制到雲端之後就可以在自己的 Google Drive 的 Colab Notebooks 資料夾中找到已建立的副本
