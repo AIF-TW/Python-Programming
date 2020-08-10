@@ -55,7 +55,7 @@
 
 3. 下載後將檔案解壓縮，依照檔案存放的位置以 Jupyter Notebook 開啟，即可運行
 
-**Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明。**
+  **Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明。**
  
 
 ## Colab:
@@ -64,7 +64,7 @@
 
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
 
-註：點擊後雖然已進入 Colab 的程式頁面，但此時若對程式編輯，編輯的內容將無法儲存，若要將自已編輯後的程式儲存，須再進行步驟2及3
+  註：點擊後雖然已進入 Colab 的程式頁面，但此時若對程式編輯，編輯的內容將無法儲存，若要將自已編輯後的程式儲存，須再進行步驟2及3
 
 2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟
 
