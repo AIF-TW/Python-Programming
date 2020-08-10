@@ -47,11 +47,11 @@
 
 1. 點選頁面上方 *Code* 按鈕
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/code.png" width="90px" >
+    <img src="https://github.com/HsiaoEn/python-programming/blob/master/code.png" width="90px" >
  
 2. 再點選 *Download ZIP* 即可下載
  
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/download.png" width="250px" >
+    <img src="https://github.com/HsiaoEn/python-programming/blob/master/download.png" width="250px" >
 
 3. 下載後將檔案解壓縮，依照檔案存放的位置以 Jupyter Notebook 開啟，即可運行
 
@@ -68,8 +68,8 @@
 
 2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="500px" />
+    <img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="500px" />
 
 3. 複制到雲端之後就可以在自己的 Google Drive 的 Colab Notebooks 資料夾中找到已建立的副本，這時便可對已建立的副本編輯與存檔
 
-<img src="https://github.com/HsiaoEn/python-programming/blob/master/colab_notebooks_folder.png" width="150px" />
+    <img src="https://github.com/HsiaoEn/python-programming/blob/master/colab_notebooks_folder.png" width="150px" />
