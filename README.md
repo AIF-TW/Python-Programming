@@ -55,7 +55,7 @@
 
 3. 下載後將檔案解壓縮，依照檔案存放的位置以 Jupyter Notebook 開啟，即可運行
 
-    **Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明。**
+    Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明。
  
 
 ## Colab:
