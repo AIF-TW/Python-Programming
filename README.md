@@ -61,13 +61,14 @@
 ## Colab:
 
 1. 可於上方依照不同的主題點擊圖示 *Open In Colab*
+註：點擊後雖然已進入 Colab 的程式頁面，但此時若對程式編輯，編輯的內容將無法儲存，若要將自已編輯後的程式儲存，須再進行步驟 2 及 3
 
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
 
-2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟即可
+2. 進入該主題的 Colab 頁面，再將檔案複制到自己的雲端硬碟
 
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/copy_colab.png" width="500px" />
 
-3. 複制到雲端之後就可以在自己的 Google Drive 的 Colab Notebooks 資料夾中找到已建立的副本
+3. 複制到雲端之後就可以在自己的 Google Drive 的 Colab Notebooks 資料夾中找到已建立的副本，這時便可對已建立的副本編輯與存檔
 
 <img src="https://github.com/HsiaoEn/python-programming/blob/master/colab_notebooks_folder.png" width="150px" />
