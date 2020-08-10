@@ -60,7 +60,7 @@
 
 ## Colab:
 
-1. 可於上方依照不同的主題點擊圖示 *Open In Colab*
+1. 可於上方依照不同的主題點擊圖示 *Open In Colab*</br>
 註：點擊後雖然已進入 Colab 的程式頁面，但此時若對程式編輯，編輯的內容將無法儲存，若要將自已編輯後的程式儲存，須再進行步驟 2 及 3
 
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" /> 
