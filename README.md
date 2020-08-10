@@ -24,14 +24,20 @@
 * Container: List    <a href="https://colab.research.google.com/drive/12Vp0DenSk4yDyx4uUqb4Ur2tkw4W-WHj?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
+* Container: Tuple & Set    <a href="https://colab.research.google.com/drive/1WLLvSyPmgtEBq1B-iUx7Sl7plbDWp479?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+* Container: Dictionary    <a href="https://colab.research.google.com/drive/1mqB9SNvFtOVuVlYIs-OH3VndZ5iu-RJM?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
   
 
 -------------
 
 **待上架**
 
-* Container: Tuple & Set
-* Container: Dictionary
+
 * Control Flow
 * Function
 * Class
