@@ -62,7 +62,7 @@
 
 3. 下載後將檔案解壓縮，依照檔案存放的位置以 Jupyter Notebook 開啟
 
-    * Linux/Mac 在終端機模式或 Windows 在命令提示模式執行下面命令，可開啟 Jupyter Notebook
+    * Linux/Mac 在終端機模式或 Windows 在命令提示模式，執行下面命令，可開啟 Jupyter Notebook
     
           jupyter notebook
         
