@@ -64,7 +64,7 @@
 
     * Linux/Mac 在終端機模式或 Windows 在命令提示模式執行下面命令，可開啟 Jupyter Notebook
     
-        jupyter notebook
+          jupyter notebook
         
     * 在 Jupyter Notebook 中依照上面將檔案解壓縮的位置路徑尋找 ipynb 檔, 點選後開啟
     
