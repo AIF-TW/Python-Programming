@@ -62,13 +62,13 @@
 
 3. 下載後將檔案解壓縮，依照檔案存放的位置以 Jupyter Notebook 開啟
 
-    Linux/Mac 在終端機模式或 Windows 在命令提示模式執行下面命令，可開啟 Jupyter Notebook
+    * Linux/Mac 在終端機模式或 Windows 在命令提示模式執行下面命令，可開啟 Jupyter Notebook
     
         jupyter notebook
         
-    在 Jupyter Notebook 中依照上面將檔案解壓縮的位置路徑尋找 ipynb 檔, 點選後開啟
+    * 在 Jupyter Notebook 中依照上面將檔案解壓縮的位置路徑尋找 ipynb 檔, 點選後開啟
     
-      <img src="https://github.com/HsiaoEn/python-programming/blob/master/ipynb.png" width="90px" >
+      <img src="https://github.com/HsiaoEn/python-programming/blob/master/ipynb.png" width="250px" >
 
     Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明
  
