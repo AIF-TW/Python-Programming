@@ -68,7 +68,7 @@
         
     * 在 Jupyter Notebook 中依照上面將檔案解壓縮的位置路徑尋找 ipynb 檔, 點選後開啟
     
-      <img src="https://github.com/HsiaoEn/python-programming/blob/master/_ipynb.png" >
+      <img src="https://github.com/HsiaoEn/python-programming/blob/master/ipynb.png" >
 
     Jupyter Notebook 的安裝與操作方式可參考 [Introduction to Python](https://www.leadercampus.com.tw/desktop/course/free/1621 "Intro to Python") 的說明
  
