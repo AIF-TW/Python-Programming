@@ -48,15 +48,20 @@
 * Control Flow: 生成式    <a href="https://colab.research.google.com/drive/1XBhEB654tmg8DNIav4BLuyKb_mSFxWFb?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
+* Function    <a href="https://colab.research.google.com/drive/1Goz1vtufjgm0rvLZHNQNU0QQw2k0XyZx?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Class     <a href="https://colab.research.google.com/drive/1FiPG2GWYgGqGtXNy184-5vzRfh79wfHW?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
   
 
 -------------
 
 **待上架**
 
-
-* Function
-* Class
 * Generator
 * Module
 * Regular Expression
