@@ -3,7 +3,6 @@
 
 -------------
 
-**已上架**
 
 * IO                 <a href="https://colab.research.google.com/drive/1YpTWtQZRhfcaZbGK_D9nzT2GGYy8R-8y?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
@@ -58,13 +57,17 @@
 </a>
   
 
--------------
+* Generator    <a href="https://colab.research.google.com/drive/1fvnt3MhAcXnPU1o3amucr-BpZu__uEVc?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
 
-**待上架**
+* Module    <a href="https://colab.research.google.com/drive/1Wiieoqz5fY-xj_PbpxPdyWa2i8-vtKqL?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
 
-* Generator
-* Module
-* Regular Expression
+* Regular Expression    <a href="https://colab.research.google.com/drive/1GCYrxufeZhbCfxbZuhjVyJX9Uy1V4f3f?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
 
 課程教材之影片與程式碼將每週持續更新。
 # 使用說明
