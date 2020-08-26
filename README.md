@@ -32,16 +32,36 @@
 * Container: Dictionary    <a href="https://colab.research.google.com/drive/1mqB9SNvFtOVuVlYIs-OH3VndZ5iu-RJM?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
+* Control Flow: statement & if-else    <a href="https://colab.research.google.com/drive/1cK1twsugZECrGHyRn9ilGxVuV3mCbYlR?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Control Flow: For Loop    <a href="https://colab.research.google.com/drive/1Mx8sWJ-73x_rRADqYzMXyehmk1fuu64m?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Control Flow: While Loop    <a href="https://colab.research.google.com/drive/1ca3iWIdr9mq4e3etdNkHD_i6QpXXWY5q?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Control Flow: 生成式    <a href="https://colab.research.google.com/drive/1XBhEB654tmg8DNIav4BLuyKb_mSFxWFb?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Function    <a href="https://colab.research.google.com/drive/1Goz1vtufjgm0rvLZHNQNU0QQw2k0XyZx?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
+
+* Class     <a href="https://colab.research.google.com/drive/1FiPG2GWYgGqGtXNy184-5vzRfh79wfHW?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+</a>
   
 
 -------------
 
 **待上架**
 
-
-* Control Flow
-* Function
-* Class
 * Generator
 * Module
 * Regular Expression
