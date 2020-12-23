@@ -1,7 +1,7 @@
 # Python programming
 財團法人人工智慧科技基金會「*Python* 程式設計輕鬆學」系列的線上課程程式碼，本程式碼包含 *Python IO*、*Data Type*、*Container*、*Control Flow* 、*Function*、*Class*、*Generator*、以及 *Regular Expression*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
 
-教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/free-course "天下創新學院")免費觀看。
+教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/803 "天下創新學院")免費觀看。
 
 # 使用說明
 
