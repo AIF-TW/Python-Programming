@@ -17,7 +17,7 @@
 
     新增 Jupyter 筆記本
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="800px">
 
 3. 將解壓縮後的資料夾上傳到自己的 google 雲端硬碟
 
